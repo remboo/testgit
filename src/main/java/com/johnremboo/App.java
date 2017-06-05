@@ -10,5 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Second commit");
+        int sum = 1;
+        System.out.println("Sum: " + sum);
+
     }
 }
