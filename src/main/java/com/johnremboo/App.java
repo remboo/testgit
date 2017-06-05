@@ -16,5 +16,9 @@ public class App
 
         System.out.println("new");
 
+
+
+
+        Object o = new Object();
     }
 }
