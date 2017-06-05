@@ -13,5 +13,7 @@ public class App
         int sum = 1;
         System.out.println("Sum: " + sum);
 
+        System.out.println("new");
+
     }
 }
