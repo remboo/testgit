@@ -23,5 +23,6 @@ public class App
         Object o2 = new Object();
         Object o3 = new Object();
         Object o4 = new Object();
+        Object o5 = new Object();
     }
 }
