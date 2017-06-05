@@ -18,7 +18,7 @@ public class App
         System.out.println("new");
         System.out.println("in test branch");
         System.out.println("in test commit 2");
-
+        Object oo = new Object();
         Object o = new Object();
         Object o2 = new Object();
         Object o3 = new Object();
