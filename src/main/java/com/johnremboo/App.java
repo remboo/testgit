@@ -15,6 +15,7 @@ public class App
 
         System.out.println("new");
         System.out.println("in test branch");
+        System.out.println("in test commit 2");
 
     }
 }
